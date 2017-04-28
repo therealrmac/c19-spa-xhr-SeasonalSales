@@ -8,5 +8,3 @@
 For example, when Spring is chosen, all products in the corresponding Household category should have their prices updated with a 15% discount off the base price.
 
 The two JSON representations above should be in two files: products.json, and categories.json. You should load both files via XHRs and store the contents in two different JavaScript variables in your code.
-
-Quote break.
